@@ -1,4 +1,3 @@
-# Reading Notes
 Hello, I'm Brandon Perard, and this is a collection of my reading notes; you can also check out my profile below.[^1]
 
 ## Growth Mindset
