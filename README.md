@@ -9,4 +9,5 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 - If an obstacle becomes a mountain, take smaller steps
 
 ![growth cat meme](https://live.staticflickr.com/263/18817437423_0fef24a7e6_n.jpg)
+
 [^1]: [Brandon Perard's GitHub Profile](https://github.com/bperard)
