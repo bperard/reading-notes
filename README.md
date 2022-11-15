@@ -12,5 +12,6 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 
 ## Index
 [Markdown](https://bperard.github.io/reading-notes/markdown)
+[Terminal](https://bperard.github.io/reading-notes/terminal)
 
 [^1]: [Brandon Perard's GitHub Profile](https://github.com/bperard)
