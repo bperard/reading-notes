@@ -3,12 +3,12 @@
 
 ## Wireframing
 Wireframing is a great practice to use when planning your site. The goal of wireframing is to build the basic structure and flow of your site, like a rough draft. Don't put too much effort into the content and style, but do consider a few of the following points:
-1 Research the content of your site so you know who you user is, and how you'd like to present your content.
-2 Consolidate your research into an easy to reference guide you can refer to as needed.
-3 Map out the flow of your site so that you have an idea of the key pages and elements needed for your wireframe.
-4 Make your wireframe an outline of the important pieces, you will add the finer details when you build your site.
-5 Once you have the basic structure complete, fill in other necessary details that help to bring your site together.
-6 Use your wireframe to build a prototype, and test out your site.
+1. Research the content of your site so you know who you user is, and how you'd like to present your content.
+2. Consolidate your research into an easy to reference guide you can refer to as needed.
+3. Map out the flow of your site so that you have an idea of the key pages and elements needed for your wireframe.
+4. Make your wireframe an outline of the important pieces, you will add the finer details when you build your site.
+5. Once you have the basic structure complete, fill in other necessary details that help to bring your site together.
+6. Use your wireframe to build a prototype, and test out your site.
 
 If you're not sure if your wireframe is complete, consider these goals:
 - **Clarity**: Can a user clearly tell the purpose of your site, and how to use it?
