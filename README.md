@@ -9,4 +9,8 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 
 ![growth cat meme](https://live.staticflickr.com/263/18817437423_0fef24a7e6_n.jpg)
 
+
+## Index
+[Markdown](https://bperard.github.io/reading-notes/markdown)
+
 [^1]: [Brandon Perard's GitHub Profile](https://github.com/bperard)
