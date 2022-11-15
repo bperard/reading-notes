@@ -14,6 +14,6 @@ Below are a few commands that will help you get started working with the termina
 **cd** stands for ***change directory*** and is followed by a string that represents the path to a directory you'd like to move to. Along with this, periods can be used to represent the current directory and to move back through parent directories; one period is current, two is back one level, three is two levels, etc.
 
 ### Let Me Create
-Once you've gotten the hang of movin around, you're going to want to create and organize files and directories.
-**mkdir** stands for ***make directory*** and is followed by a string that represents the name of your directory.
+Once you've gotten the hang of movin around, you're going to want to create and organize files and directories.  
+**mkdir** stands for ***make directory*** and is followed by a string that represents the name of your directory.  
 **touch** is followed by the string and extension to create a file of a certain type within the current directory.
