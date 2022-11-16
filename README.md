@@ -11,8 +11,32 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 
 
 ## Index
-- [Markdown](https://bperard.github.io/reading-notes/markdown)
-- [Terminal](https://bperard.github.io/reading-notes/terminal)
+
+### 102
+- [Class 1: Markdown](./markdown)
+- [Class 2: Terminal](./terminal)
+- [Class 3: Git](./git)
 - [Class 4: HTML](./html)
+- [Class 5: ](./)
+- [Class 6: ](./)
+- [Class 7: ](./)
+- [Class 8: ](./)
+
+### 201
+- [Class 1: ](./)
+- [Class 2: ](./)
+- [Class 3: ](./)
+- [Class 4: ](./)
+- [Class 5: ](./)
+- [Class 6: ](./)
+- [Class 7: ](./)
+- [Class 8: ](./)
+- [Class 9: ](./)
+- [Class 10: ](./)
+- [Class 11: ](./)
+- [Class 12: ](./)
+- [Class 13: ](./)
+- [Class 14: ](./)
+- [Class 15: ](./)
 
 [^1]: [Brandon Perard's GitHub Profile](https://github.com/bperard)
