@@ -22,10 +22,10 @@ CSS styling can be applied in multiple ways:
 **Internal**: Style sheet is contained on the same page within a < style > element.
 **Inline**: Styles applied directly to an element using the style attribute.
 
-### Cascading Applcation
+### Cascading Application
 Since it's possible to apply styles from multiple sources, the cascading nature of CSS determines which style will be applied when there are conflicting or redundant properties. The last style read will be what gets applied, so knowing the CSS hierarchy is important in ensuring the wanted styles are used.
 
 ***Hierarchy***
 1. Inline Styles
 2. Internal & External style sheets (dependent on order in document)
-3. Browswer defaults
+3. Browser defaults
