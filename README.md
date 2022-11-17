@@ -18,7 +18,7 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 - [Class 3: Git](./git)
 - [Class 4: HTML](./html)
 - [Class 5: CSS](./css)
-- [Class 6: ](./)
+- [Class 6: JavaScript](./javascript)
 - [Class 7: ](./)
 - [Class 8: ](./)
 
