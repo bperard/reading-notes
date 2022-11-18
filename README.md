@@ -19,8 +19,8 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 - [Class 4: HTML](./html)
 - [Class 5: CSS](./css)
 - [Class 6: JavaScript](./javascript)
-- [Class 7: ](./)
-- [Class 8: ](./)
+- [Class 7: Functions](./functions)
+- [Class 8: Loops](./loops)
 
 ### 201
 - [Class 1: ](./)
