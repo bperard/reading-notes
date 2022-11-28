@@ -12,7 +12,7 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 
 ## Index
 
-### 102
+### Code 102 Reading Notes
 - [Class 1: Markdown](./markdown)
 - [Class 2: Terminal](./terminal)
 - [Class 3: Git](./git)
@@ -22,8 +22,8 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 - [Class 7: Functions](./functions)
 - [Class 8: Loops](./loops)
 
-### 201
-- [Class 1: ](./)
+### Code 201 Reading Notes
+- [Class 1: Getting Started](./class-01)
 - [Class 2: ](./)
 - [Class 3: ](./)
 - [Class 4: ](./)
