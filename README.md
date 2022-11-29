@@ -24,7 +24,7 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 
 ### Code 201 Reading Notes
 - [Class 1: Getting Started](./class-01)
-- [Class 2: ](./)
+- [Class 2: Git Commit](./class-02)
 - [Class 3: ](./)
 - [Class 4: ](./)
 - [Class 5: ](./)
