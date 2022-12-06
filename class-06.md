@@ -20,4 +20,3 @@ Bracket notation allows you to access a variable when referencing a value, dot n
 
 **Evaluate the code below. What does the term this refer to and what is the advantage to using this?**
 Using the this keyword allows you to access the property of the specific object you are working with.
-dsfsd
