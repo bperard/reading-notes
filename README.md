@@ -31,7 +31,7 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 - [Class 6: DOM](./class-06)
 - [Class 7: OOP](./class-07)
 - [Class 8: Flexbox](./class-08)
-- [Class 9: ](./class-09)
+- [Class 9: Forms](./class-09)
 - [Class 10: ](./class-10)
 - [Class 11: ](./class-11)
 - [Class 12: ](./class-12)
