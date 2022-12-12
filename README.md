@@ -1,8 +1,13 @@
-Hello, I'm Brandon Perard, and this is a collection of my reading notes; you can also check out my profile below.[^1]
+# READING NOTES
+
+I'm Brandon Perard, and this is a collection of my reading notes; you can also check out my profile below.[^1]
 
 ## Growth Mindset
+
 The "**growth mindset**" are the practices you use to take on ambiguous and challengeing tasks, like *learning something new*. When adversity and frustration take hold, it's easy to give up or get distracted, so it's important to build up the habits that allow us to move forward.
+
 ### Reminders to Grow
+
 - Minimize focus-stealing distractions
 - When motivation is low, take a break to recharge
 - If an obstacle becomes a mountain, take smaller steps
@@ -13,6 +18,7 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 ## Index
 
 ### Code 102 Reading Notes
+
 - [Class 1: Markdown](./markdown)
 - [Class 2: Terminal](./terminal)
 - [Class 3: Git](./git)
@@ -23,6 +29,7 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 - [Class 8: Loops](./loops)
 
 ### Code 201 Reading Notes
+
 - [Class 1: Getting Started](./class-01)
 - [Class 2: Git Commit](./class-02)
 - [Class 3: Box Model](./class-03)
@@ -33,7 +40,7 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 - [Class 8: Flexbox](./class-08)
 - [Class 9: Forms](./class-09)
 - [Class 10: Troubleshooting](./class-10)
-- [Class 11: ](./class-11)
+- [Class 11: Media](./class-11)
 - [Class 12: ](./class-12)
 - [Class 13: ](./class-13)
 - [Class 14: ](./class-14)
