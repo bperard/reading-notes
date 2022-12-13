@@ -1,10 +1,10 @@
 # Canvas
 
-**What does the <canvas> allow a developer to acheive?**
+**What does the < canvas > allow a developer to acheive?**
 allows you to draw 2D graphics using JavaScript.
 
-**What is the importance of the closing `</canvas> tag?**
-Any content between the opening and closing tags is fallback content that will display only if the browser doesn’t support the <canvas> element.
+**What is the importance of the closing `</ canvas > tag?**
+Any content between the opening and closing tags is fallback content that will display only if the browser doesn’t support the < canvas > element.
 
 **Explain what the getContext() method does.**
 Returns a render context object. The getContext() takes one argument which is the type of context. The 2D rendering context allows you to draw shapes, text, images, and other objects.
