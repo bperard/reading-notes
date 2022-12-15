@@ -43,7 +43,7 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 - [Class 11: Media](./class-11)
 - [Class 12: Canvas](./class-12)
 - [Class 13: Local Storage](./class-13)
-- [Class 14: ](./class-14)
-- [Class 15: ](./class-15)
+- [Class 14: CSS Transforms](./class-14)
+- [Class 15: The Perfect Team](./class-15)
 
 [^1]: [Brandon Perard's GitHub Profile](https://github.com/bperard)
