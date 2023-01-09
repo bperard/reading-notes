@@ -48,6 +48,8 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 
 ### Code 301 - Intermediate Software Development
 
+- [Class 1](./class-301)
+
 ### Code 401 - Advanced Software Development
 
 [^1]: [Brandon Perard's GitHub Profile](https://github.com/bperard)
