@@ -17,7 +17,7 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 
 ## Index
 
-### Code 102 Reading Notes
+### Code 102 - Intro to Software
 
 - [Class 1: Markdown](./markdown)
 - [Class 2: Terminal](./terminal)
@@ -28,7 +28,7 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 - [Class 7: Functions](./functions)
 - [Class 8: Loops](./loops)
 
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
 
 - [Class 1: Getting Started](./class-01)
 - [Class 2: Git Commit](./class-02)
@@ -45,5 +45,9 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 - [Class 13: Local Storage](./class-13)
 - [Class 14: CSS Transforms](./class-14)
 - [Class 15: The Perfect Team](./class-15)
+
+### Code 301 - Intermediate Software Development
+
+### Code 401 - Advanced Software Development
 
 [^1]: [Brandon Perard's GitHub Profile](https://github.com/bperard)
