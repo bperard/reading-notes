@@ -56,6 +56,7 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 - [Class 6](./class-306)
 - [Class 7](./class-307)
 - [Class 8](./class-308)
+- [Class 9](./class-309)
 
 ### Code 401 - Advanced Software Development
 
