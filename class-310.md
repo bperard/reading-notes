@@ -12,7 +12,7 @@ The call stack is synchronous, one call happens at once.
 Last In, First Out; the last function pushed into the stack is the first to be popped out, when the function returns.
 
 - Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.  
-![Call Stack](https://miro.medium.com/max/1400/1*rJ2Gwch8CiATB_4MJzm-6g.webp)
+![Call Stack](./LIFO%20Call%20Stack.png)
 
 - What causes a Stack Overflow?  
 When a recursive function without an exit point is invoked, a stack overflow will occur once the hosting environment maximum call size is exceeded.
