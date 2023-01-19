@@ -14,7 +14,6 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 
 ![growth cat meme](https://live.staticflickr.com/263/18817437423_0fef24a7e6_n.jpg)
 
-
 ## Index
 
 ### Code 102 - Intro to Software
