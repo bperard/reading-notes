@@ -68,5 +68,6 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 - [Class 1](./class-401)
 - [Class 2](./class-402)
 - [Class 3](./class-403)
+- [Class 4](./class-404)
 
 [^1]: [Brandon Perard's GitHub Profile](https://github.com/bperard)
