@@ -71,6 +71,8 @@ The "**growth mindset**" are the practices you use to take on ambiguous and chal
 - [Class 3](./class-403)
 - [Class 4](./class-404)
 - [Class 6](./class-406)
+- [Class 7](./class-407)
+- [Class 8](./class-408)
 - [Class 11](./class-411)
 - [Class 12](./class-412)
 - [Class 13](./class-413)
