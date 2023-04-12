@@ -32,3 +32,8 @@ The main reason to use Gatsby is when SEO is important for your webpage. If you 
 
 - Why use Gatsby
 If you want to create a Landing Page for a business or product, create a blog, or create an e-commerce website, Gatsby will give you the tools to have the online presence that is mission critical for any of these cases. In this day and age your page needs to be light, fast, mobile-friendly, and easy to find, which is what you get with Gatsby.
+
+- When not to use Gatsby
+If you want to build a service that is highly dependent on user interaction changing data, fetching data from Databases and dynamically displaying the content, go for React. Sometimes web-applications behind a sing-up wall, have no SEO concerns. Since Create React App does Client Side Rendering (CSR), any web crawler indexing for your page will get an empty page that will then create the content, making it harder to crawl and index for.
+
+Some web applications like social-media apps, and SaaS apps, are not viable using Gatsby because Gatsby would have to build the entire web-page every time something changes, and then serve it. This would be lousy UX and by the time one build finished and served, about 100 more builds would be in line.
